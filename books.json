@@ -1,0 +1,23 @@
+{
+  "post": [
+    {
+      "author": "Chimamanda Adichie",
+      "country": "Nigeria",
+      "language": "English",
+      "pages": 500,
+      "title": "Half of a yellow sun",
+      "year": 2019,
+      "id": 1
+    }
+  ],
+  "lend": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "title": "My book",
+      "bookAuthor": "Taofeek",
+      "lendingDate": "string",
+      "returnDate": "string"
+    }
+  ]
+}
